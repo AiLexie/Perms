@@ -5,6 +5,7 @@
 
 >> Administrators > Owners
 Lеwd
+Lexie Ai
 
 >> Administrators > Staff
 Junipеr
