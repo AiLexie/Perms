@@ -3,11 +3,11 @@
 // > - Permission Statement
 // + - Add extra Permission
 
->> Administrators > Owners
+>> OWNERS > Admin+TAG_OWNER
 Lеwd
 Lexie Ai
 
->> Administrators > Staff
+>> Administrators > Admin+Staff+VIP+TAG_ADMIN
 Junipеr
 
 >> BannedPlayers > Banned
